@@ -22,8 +22,8 @@ body {
     color: white;
 }
 
-.topMenu a:active {
-    background-color: turquoise color;
+.topMenu a.active {
+    background-color: black;
     color: white;
 }
 

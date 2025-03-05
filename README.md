@@ -5,5 +5,5 @@
  [] Use the section tab
     [] Edit to fix appropriately in CSS
  [x] Add a background image
- [] Have clickable link
+ [x] Have clickable link
  
