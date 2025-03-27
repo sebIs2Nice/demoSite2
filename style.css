@@ -49,3 +49,30 @@ aside {
 aside p {
     color: white;
 }
+
+
+/*Table*/
+
+table {
+    border: 5px dotted black;
+    border-collapse: collapse;
+    background-color: burlywood;
+    text-align: center;
+}
+
+th {
+    border: 3px dashed blue;
+    border-collapse: collapse;
+    background-color: chocolate;
+}
+
+td {
+    border: 5px double green;
+    border-collapse: collapse;
+    background-color: coral;
+}
+
+#fn {
+    width: 50%;
+    text-align: center;
+}
