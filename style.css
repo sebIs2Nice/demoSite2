@@ -76,3 +76,13 @@ td {
     width: 50%;
     text-align: center;
 }
+
+.image2 {
+    display: inline-block;
+}
+
+.paragraph {
+    display: inline;
+}
+
+.image1 {}
